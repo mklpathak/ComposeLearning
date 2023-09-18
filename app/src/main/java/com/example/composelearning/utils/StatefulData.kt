@@ -6,3 +6,6 @@ sealed  class  State <T>{
     class Loading<T> : State<T>()
     class NoState<T>: State<T>()
 }
+
+/*
+"Test"*/
